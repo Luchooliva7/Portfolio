@@ -6,7 +6,7 @@
 
 nav {
   display: flex;
-  background-color: darkblue;
+  background-color: #010101;
   align-items: center;
   padding: 1rem;
   justify-content: space-around;
@@ -19,8 +19,8 @@ ul {
 }
 
 img {
-  height: 70px;
-  width: 90px;
+  height: 100px;
+  width: 120px;
 }
 
 ul a {
